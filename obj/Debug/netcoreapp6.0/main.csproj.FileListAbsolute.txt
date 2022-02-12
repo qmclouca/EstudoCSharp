@@ -29,3 +29,10 @@
 /home/runner/EstudoCSharp/obj/Debug/netcoreapp6.0/main.dll
 /home/runner/EstudoCSharp/obj/Debug/netcoreapp6.0/ref/main.dll
 /home/runner/EstudoCSharp/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/EstudoCSharp/bin/Debug/netcoreapp6.0/main
+/home/runner/EstudoCSharp/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/EstudoCSharp/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/EstudoCSharp/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/EstudoCSharp/bin/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/EstudoCSharp/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/EstudoCSharp/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
