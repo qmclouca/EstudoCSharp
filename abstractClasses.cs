@@ -1,6 +1,6 @@
 using System;
 
-class Program {
+class abstractClasses {
   public static void Main (string[] args) {
             Figure rectangle = new Rectangle(5, 6);
             Figure triangle = new Triangle(4, 8, 3);
