@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp6.0</TargetFramework>
-		<StartupObject>structsPractice1</StartupObject>
+		<StartupObject>exceptionHandling</StartupObject>
   </PropertyGroup>
 
 </Project>
