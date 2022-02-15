@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp6.0</TargetFramework>
-		<StartupObject>genericClasses</StartupObject>
+		<StartupObject>listPractice</StartupObject>
   </PropertyGroup>
 
 </Project>
