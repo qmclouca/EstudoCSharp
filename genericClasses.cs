@@ -1,3 +1,12 @@
+/*
+Generic Classes
+
+The class Elems creates a 3-sized array of integers, defines Add() and Show() methods to store the elements into the array, and shows them separated by a space.
+Modify the class to make it generic to execute the same actions with string type, given in the Main function.
+You need to replace the int type by the generic <T> type.
+Each output should end with a space (including the last one).
+*/
+
 using System;
 using System.Collections.Generic;
 
@@ -19,11 +28,11 @@ using System.Collections.Generic;
         }
     }
     //make this class generic
-    class Elems
+    class Elems <T>
     {
-        public int[] elements = new int[3];
+        public T[] elements = new T[3];
 
-        public void Add(int elem1, int elem2, int elem3)
+        public void Add(T elem1, T elem2, T elem3)
         {
             elements[0] = elem1;
             elements[1] = elem2;
@@ -32,7 +41,7 @@ using System.Collections.Generic;
 
         public void Show()
         {
-            foreach (int item in elements)
+            foreach (T item in elements)
             {
                 Console.Write(item + " ");
             }
